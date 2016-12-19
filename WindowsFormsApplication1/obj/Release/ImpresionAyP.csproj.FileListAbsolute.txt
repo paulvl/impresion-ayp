@@ -1,0 +1,13 @@
+D:\repositories\Impresion\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+D:\repositories\Impresion\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+D:\repositories\Impresion\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+D:\repositories\Impresion\WindowsFormsApplication1\bin\Release\Newtonsoft.Json.dll
+D:\repositories\Impresion\WindowsFormsApplication1\bin\Release\PusherClient.dll
+D:\repositories\Impresion\WindowsFormsApplication1\bin\Release\WebSocket4Net.dll
+D:\repositories\Impresion\WindowsFormsApplication1\bin\Release\Newtonsoft.Json.xml
+D:\repositories\Impresion\WindowsFormsApplication1\bin\Release\PusherClient.xml
+D:\repositories\Impresion\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form1.resources
+D:\repositories\Impresion\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+D:\repositories\Impresion\WindowsFormsApplication1\obj\Release\ImpresionAyP.csproj.GenerateResource.Cache
+D:\repositories\Impresion\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+D:\repositories\Impresion\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb

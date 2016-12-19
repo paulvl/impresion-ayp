@@ -1,0 +1,14 @@
+C:\Users\Rosario\Documents\Visual Studio 2015\Projects\Impresion\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+C:\Users\Rosario\Documents\Visual Studio 2015\Projects\Impresion\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+C:\Users\Rosario\Documents\Visual Studio 2015\Projects\Impresion\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+C:\Users\Rosario\Documents\Visual Studio 2015\Projects\Impresion\WindowsFormsApplication1\bin\Release\Newtonsoft.Json.dll
+C:\Users\Rosario\Documents\Visual Studio 2015\Projects\Impresion\WindowsFormsApplication1\bin\Release\PusherClient.dll
+C:\Users\Rosario\Documents\Visual Studio 2015\Projects\Impresion\WindowsFormsApplication1\bin\Release\WebSocket4Net.dll
+C:\Users\Rosario\Documents\Visual Studio 2015\Projects\Impresion\WindowsFormsApplication1\bin\Release\Newtonsoft.Json.xml
+C:\Users\Rosario\Documents\Visual Studio 2015\Projects\Impresion\WindowsFormsApplication1\bin\Release\PusherClient.xml
+C:\Users\Rosario\Documents\Visual Studio 2015\Projects\Impresion\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Rosario\Documents\Visual Studio 2015\Projects\Impresion\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\Rosario\Documents\Visual Studio 2015\Projects\Impresion\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Rosario\Documents\Visual Studio 2015\Projects\Impresion\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Rosario\Documents\Visual Studio 2015\Projects\Impresion\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+C:\Users\Rosario\Documents\Visual Studio 2015\Projects\Impresion\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb
